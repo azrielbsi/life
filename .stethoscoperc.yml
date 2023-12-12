@@ -4,6 +4,10 @@ integrations:
     overview: true
     top-categories: true
     top-activities: false
+  integrations:
+  spotify:
+    frequency: "daily"
+    all: true
   last-fm:
     frequency: "daily"
     all: true
